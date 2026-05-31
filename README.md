@@ -59,12 +59,6 @@ AI-powered platform that reduced manual research time by **~97%** — from hours
 
 ---
 
-## GitHub stats
-
-![Phanindra's GitHub stats](https://github-readme-stats.vercel.app/api?username=phanindranalla&show_icons=true&hide_border=true&theme=default&cache_seconds=1800)
-
----
-
 ## Let's connect
 
 I'm actively looking for my next role and love connecting with people building interesting things.
